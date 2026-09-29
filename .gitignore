@@ -39,3 +39,31 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Secrets and credentials: never commit these
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.jks
+*.keystore
+service-account*.json
+keystore.properties
+
+# Environment files (real values live only here, never in git)
+.env.local
+.env.*.local
+
+# OS and editor noise
+Thumbs.db
+*.swp
+*.log
+
+# Node / Next.js / Astro
+node_modules/
+.next/
+.vercel/
+.turbo/
+coverage/
+.astro/
