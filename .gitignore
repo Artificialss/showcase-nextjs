@@ -50,3 +50,20 @@ next-env.d.ts
 *.keystore
 service-account*.json
 keystore.properties
+
+# Environment files (real values live only here, never in git)
+.env.local
+.env.*.local
+
+# OS and editor noise
+Thumbs.db
+*.swp
+*.log
+
+# Node / Next.js / Astro
+node_modules/
+.next/
+.vercel/
+.turbo/
+coverage/
+.astro/
