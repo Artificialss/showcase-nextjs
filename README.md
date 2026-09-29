@@ -24,7 +24,7 @@ A single home page with four pieces, all reused/adapted from the production site
 
 - **Header** — sticky, dark, curved bottom border that arcs around the logo, contact mailto link, light/dark toggle
 - **Hero** — animated "Powered by AI" wooden sign logo, headline, subtitle, CTA button
-- **Portfolio** — a card grid linking out to real projects: this repo, [Showcase.CMM](https://github.com/Artificialss/Showcase.CMM), [Papasar](https://papasar.cr), and [artificialss.ai](https://artificialss.ai)
+- **Portfolio** — a card grid linking out to real projects: this repo, [Showcase.CMM](https://github.com/Artificialss/showcase-cmm), [Papasar](https://papasar.cr), and [artificialss.ai](https://artificialss.ai)
 - **Footer** — logo, public social links, copyright
 
 ## What's deliberately left out
